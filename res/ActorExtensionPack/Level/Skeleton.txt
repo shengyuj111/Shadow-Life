@@ -1,0 +1,5 @@
+Level 2: Skeleton
+This time there are two             Skeletons aound the chest.
+Hint: Red eye moves Left and      Right
+Hint: Blue eye moves Up and       Down
+Interesting Fact: the lower       body animation comes from       Micheal Jackson

@@ -1,0 +1,4 @@
+Level 4: Spider
+Spider moves in diagonal          direction.
+Hint: nope
+Interesting Fact: The idea        of spider comes from a "Bug"     movement of the Skeleton

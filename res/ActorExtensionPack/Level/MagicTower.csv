@@ -1,0 +1,14 @@
+Knight,13,6
+WallMaker,11,1,11,7
+WallMaker,11,7,11,1
+WallMaker,6,10,6,4
+WallMaker,6,4,6,10
+Chest,3,6
+WallMaker,5,4,3,4
+WallMaker,3,4,5,4
+SignDown,12,6
+SignLeft,12,9
+SignUp,8,9
+SignLeft,8,2
+SignDown,2,2
+SignRight,2,6

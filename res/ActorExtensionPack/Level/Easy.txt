@@ -1,0 +1,9 @@
+Level-1: Easy One
+Oh there is a chest.
+I need to plan my route to get    there.
+Hint: Using shadowSign to        change the direction.
+Hint: Click the sign to use it.
+Hint: If the position is                unwanted
+Hint: Please use the garbage     can to remove the sign.
+Hint: Lastly, dont forget to       close the garbage  can.
+Interesting fact: The white      dot on the knight is an               accident   :-<

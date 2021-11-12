@@ -1,0 +1,10 @@
+Knight,14,6
+Chest,1,1
+Portal,11,4,2,6
+Portal,2,6,11,4
+WallMaker,9,1,9,10
+WallMaker,9,10,9,1
+SignUp,11,6
+SignLeft,2,1
+SignDown,3,6
+SignRight,11,1

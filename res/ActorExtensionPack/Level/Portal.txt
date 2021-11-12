@@ -1,0 +1,4 @@
+Level 7: Portal
+We cant directly move to the    chest!
+What should we do?
+Hint: use the portal

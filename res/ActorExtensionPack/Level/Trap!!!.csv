@@ -1,0 +1,14 @@
+Knight,12,6
+Trap,6,6,1
+Trap,5,7,1
+Trap,4,6,0
+Trap,5,5,1
+Chest,5,6
+Trap,6,7,1
+Trap,4,7,1
+Trap,4,5,1
+Trap,6,5,1
+SignUp,9,6
+SignLeft,9,4
+SignDown,3,4
+SignRight,3,6

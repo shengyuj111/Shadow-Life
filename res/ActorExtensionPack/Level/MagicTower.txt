@@ -1,0 +1,4 @@
+Level 6: Magic Tower
+Magic tower can make a                lightning.
+Hint: Just dont touch them
+Interesting fact: The magic     Tower is called wall maker in   the source code.
